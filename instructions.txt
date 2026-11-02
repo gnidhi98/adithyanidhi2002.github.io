@@ -1,0 +1,17 @@
+ADD YOUR FILES HERE
+
+1. Rename your professional headshot to:
+   headshot.png
+
+2. Put your CV PDF here and name it:
+   Adithya-Nidhi-CV.pdf
+
+The website already references these paths.
+
+Recommended headshot:
+- PNG or JPG
+- 1000px+ on the shortest side
+- Professional portrait with some breathing room around the head/shoulders
+- Transparent PNG is also supported
+
+You can change the image filename in src/App.jsx if needed.
